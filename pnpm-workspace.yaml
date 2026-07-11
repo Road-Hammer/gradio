@@ -8,3 +8,6 @@ patchedDependencies:
   '@sveltejs/package': patches/@sveltejs__package.patch
 overrides:
   serialize-javascript@6.0.2: https://npm.aikido.io/1d49b833bf910aedc1911/serialize-javascript@6.0.2-aikido.3
+  lodash-es@<=4.17.23: 4.17.23
+  chevrotain@<=11.1.1: 11.1.1
+  langium@<=4.2.0: 4.2.0
