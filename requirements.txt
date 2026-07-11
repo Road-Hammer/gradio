@@ -30,3 +30,4 @@ uvicorn>=0.14.0
 pytz>=2017.2
 
 pyyaml==5.3.1.post1+tuxcare
+pillow==8.4.0.post2+tuxcare
