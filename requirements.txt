@@ -34,3 +34,4 @@ pillow==8.4.0.post2+tuxcare
 numpy==1.22
 starlette==1.0.1
 anyio==3.7.1.post1+tuxcare
+huggingface-hub==1.16.0
