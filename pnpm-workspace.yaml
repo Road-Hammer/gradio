@@ -11,3 +11,4 @@ overrides:
   lodash-es@<=4.17.23: 4.17.23
   chevrotain@<=11.1.1: 11.1.1
   langium@<=4.2.0: 4.2.0
+  svelte@<=5.55.7: 5.55.7
